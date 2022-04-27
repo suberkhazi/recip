@@ -1,6 +1,6 @@
 {
+  "homepage": "https://suberkhazi.github.io/recip",
   "name": "resip",
-  "homepage": "https://suberkhazi.github.io/reactRecip",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
